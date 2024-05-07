@@ -1,3 +1,12 @@
+"""
+Yura Hernandez H
+ING sistemas
+
+Plataformas de compras CIVILES S.A.S
+
+"""
+
+
 from referencias import refval
 from fac import genFac
 def main():
