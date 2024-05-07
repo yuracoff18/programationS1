@@ -1,0 +1,32 @@
+=======================================
+    Empresa: CIVILES S.A.S
+
+    Nombre cliente: Yura
+
+    Referencia del producto: TZ
+    Nombre del producto: Teja De Zinc
+
+    Cantidad: 2.4
+    Precio por unidad: 48900
+    Precio total: 586800
+
+    
+
+    Referencia del producto: CMN
+    Nombre del producto: Cemento
+
+    Cantidad: 2.4
+    Precio por unidad: 20600
+    Precio total: 247200
+
+    
+
+    Referencia del producto: TCR
+    Nombre del producto: Teja Colonial Roja
+
+    Cantidad: 2.4
+    Precio por unidad: 72900
+    Precio total: 174960.0
+
+    Precio total: 142400
+=======================================
