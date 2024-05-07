@@ -2,7 +2,8 @@
 def genFac(nombre, cantidad,productos ):
     try:
         with open("preParcial3/Facturas/" + nombre+ ".txt", "a") as fac:
-                fac.write(f"""=======================================
+                fac.write(f"""
+=======================================
     Empresa: CIVILES S.A.S
 
     Nombre cliente: {nombre}""")
@@ -23,7 +24,8 @@ def genFac(nombre, cantidad,productos ):
                 fac.write("=======================================")
     except:
          with open("preParcial3/Facturas/"+nombre+".txt", "w") as fac:
-                fac.write(f"""=======================================
+                fac.write(f"""
+=======================================
     Empresa: CIVILES S.A.S
 
     Nombre cliente: {nombre}""")

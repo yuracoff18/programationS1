@@ -46,6 +46,11 @@ def main():
     
     if len(productos) > 0:
         genFac(nombre, cantidad, productos)
+    ver = input("Desea ver la factura? (S/N): ")
+    if ver.upper() == "S":
+        with open("preParcial3/Facturas/"+nombre+".txt", "r") as fac:
+            print(fac.read())
+            fac.close()
     print("Gracias por comprar con CIVILES S.A.S")
 
 if __name__ == "__main__":
